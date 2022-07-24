@@ -1,2 +1,1 @@
-# k8s-images-mirrors
-k8s-images-mirrors
+获取一些无法下载的镜像
